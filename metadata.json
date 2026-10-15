@@ -1,0 +1,6 @@
+{
+  "name": "Avance",
+  "description": "Personal budget planner and tracker for monthly actions, real account balances, notes, and savings vs expenses dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
